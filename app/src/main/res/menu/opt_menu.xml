@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/opt_shareApp"
+        android:icon="@drawable/baseline_share_24"
+        app:showAsAction="ifRoom"
+        android:title="@string/share_app">
+
+    <menu>
+
+    <item android:id="@+id/opt_app_info"
+        android:icon="@drawable/baseline_info_24"
+        app:showAsAction="always"
+        android:title="@string/app_info"/>
+
+    <item android:id="@+id/opt_aboutUs"
+        android:icon="@drawable/baseline_co_present_24"
+        app:showAsAction="always"
+        android:title="@string/about_us"/>
+
+    </menu>
+
+    </item>
+
+</menu>

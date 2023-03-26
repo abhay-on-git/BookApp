@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="true">BookApp</string>
+    <string name="book_name">book_name</string>
+    <string name="book_app">BOOK APP</string>
+    <string name="abhay_agnihotri">Abhay Agnihotri</string>
+    <string name="app_logo">applogo</string>
+    <string name="app_icon">app_icon</string>
+    <string name="book_summary">Book Summary</string>
+    <string name="share_app">Share App</string>
+    <string name="app_info">App info</string>
+    <string name="about_us">About us</string>
+</resources>

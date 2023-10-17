@@ -1,11 +1,13 @@
 # BookApp
 
-## This is the BookApp in  Which i learnt about the the basics of Android Development.
+## Learnings.
 
-## Structure of Android App.
+### This is the BookApp in  Which i learnt about the the basics of Android Development.
 
-## Developed the Concepts in Java.
+### Structure of Android App.
 
-## Developed the Concepts in Android like -> Recycler View , Constraint Layout , Relative Layout and many more.  
+### Developed the Concepts in Java.
 
-## Learnt to Organize the Code of an Android App.
+### Developed the Concepts in Android like -> Recycler View , Constraint Layout , Relative Layout and many more.  
+
+### Learnt to Organize the Code of an Android App.# 
